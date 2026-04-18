@@ -59,3 +59,6 @@ Standardized inconsistent label values in the `Item Fat Content` column before a
 These projects were built as part of a hands-on data analytics learning journey, applying real-world business scenarios to develop skills in data modeling, visualization, storytelling with data, and BI tool optimization.
 
 **Tools & Technologies across portfolio:** Excel · Power Query · DAX · Power BI · SQL (MySQL) · DAX Studio · Python · Pandas · NumPy · Matplotlib · Seaborn · GitHub LFS
+
+## 📊 Dashboard Preview
+![Dashboard](blinkit.png)
